@@ -1,7 +1,3 @@
-layout: page
-title: "Privacy Policy"
-permalink: /privacy/
-
 # Privacy Policy for "Píanóæfingar - Upprifjun"
 This app does not
  - collect or transmit any personal information or other user data
