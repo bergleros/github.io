@@ -4,3 +4,5 @@ This app does not
  - link to websites or other third-party services
  - contain ads
  - have in-app purchases
+
+Contact at <a href="mailto:upprifjun@gmail.com">upprifjun@gmail.com</a>
